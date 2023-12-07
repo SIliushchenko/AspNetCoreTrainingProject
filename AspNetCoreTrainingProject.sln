@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreTrainingProject", "AspNetCoreTrainingProject\AspNetCoreTrainingProject.csproj", "{FB5B0D67-3DDE-45CA-B39C-10AF389C08CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreTrainingProject.IntegrationTests", "AspNetCoreTrainingProject.IntegrationTests\AspNetCoreTrainingProject.IntegrationTests.csproj", "{05389C27-FB68-4F91-8484-D577A321BA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreTrainingProject.SDK", "AspNetCoreTrainingProject.SDK\AspNetCoreTrainingProject.SDK.csproj", "{5ACE6C3C-2E68-418B-836D-6AC98D4BA1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreTrainingProject.SDK.Sample", "AspNetCoreTrainingProject.SDK.Sample\AspNetCoreTrainingProject.SDK.Sample.csproj", "{076D67C2-AA7D-4B76-BFD2-55986E6BE534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreTrainingProject.Contracts", "AspNetCoreTrainingProject.Contracts\AspNetCoreTrainingProject.Contracts.csproj", "{A1F2F6ED-1042-490C-8E5B-7FC384602AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5B0D67-3DDE-45CA-B39C-10AF389C08CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5B0D67-3DDE-45CA-B39C-10AF389C08CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5B0D67-3DDE-45CA-B39C-10AF389C08CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5B0D67-3DDE-45CA-B39C-10AF389C08CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05389C27-FB68-4F91-8484-D577A321BA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05389C27-FB68-4F91-8484-D577A321BA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05389C27-FB68-4F91-8484-D577A321BA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05389C27-FB68-4F91-8484-D577A321BA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACE6C3C-2E68-418B-836D-6AC98D4BA1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACE6C3C-2E68-418B-836D-6AC98D4BA1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACE6C3C-2E68-418B-836D-6AC98D4BA1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACE6C3C-2E68-418B-836D-6AC98D4BA1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076D67C2-AA7D-4B76-BFD2-55986E6BE534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076D67C2-AA7D-4B76-BFD2-55986E6BE534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076D67C2-AA7D-4B76-BFD2-55986E6BE534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076D67C2-AA7D-4B76-BFD2-55986E6BE534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F2F6ED-1042-490C-8E5B-7FC384602AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F2F6ED-1042-490C-8E5B-7FC384602AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F2F6ED-1042-490C-8E5B-7FC384602AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F2F6ED-1042-490C-8E5B-7FC384602AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9F0723-7C58-4ECF-B3ED-885201A790C3}
+	EndGlobalSection
+EndGlobal
