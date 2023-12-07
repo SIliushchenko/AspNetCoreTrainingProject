@@ -80,7 +80,7 @@ namespace AspNetCoreTrainingProject.Controllers.V1
             {
                 return NotFound();
             }
-            return Ok(new Response<Post?>(post));
+            return Ok();
         }
 
         [Route("posts/{postId}")]
